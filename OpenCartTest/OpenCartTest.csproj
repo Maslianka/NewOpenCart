@@ -62,6 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Logic\AddToCartLogic.cs" />
+    <Compile Include="Logic\Constants.cs" />
     <Compile Include="pages\MainPage.cs" />
     <Compile Include="pages\Nav.cs" />
     <Compile Include="pages\ProductItem.cs" />
